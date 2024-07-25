@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulbasid hussain</h1>
 <h3 align="center">A web developer and blockchain enthusiast</h3>
 
-- 🔭 I’m currently working on **class training project with nodejs**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
